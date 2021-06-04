@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and data science 
 - 🌱 I’m currently learning advanced python and data science basics
 - 💞️ I’m looking to collaborate on any project includes python or data science
-- 📫 How to reach me with the ibrahimhalici56@gmail.com or you can write me in linkedin.
+- 📫 You can reach me with the ibrahimhalici56@gmail.com or write me in linkedin.
 
 <!---
 ibrahimhalici/ibrahimhalici is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
