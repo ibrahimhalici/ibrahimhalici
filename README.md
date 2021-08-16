@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ibrahimhalici
 - 👀 I’m interested in python and data science 
-- 🌱 I’m currently learning advanced python and data science basics
 - 💞️ I’m looking to collaborate on any project includes python or data science
 - 📫 You can reach me with the ibrahimhalici56@gmail.com or write me in linkedin.
 
